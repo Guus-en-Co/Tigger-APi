@@ -33,8 +33,6 @@ $app = new \Slim\App($settings);
 // Set up database
 require __DIR__ . '/../includes/connect.php';
 
-// Set up jira
-require __DIR__ . '/../includes/jira.php';
 
 // Set up messenger
 require __DIR__ . '/../src/Messenger.php';
