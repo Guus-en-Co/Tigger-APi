@@ -1,0 +1,7 @@
+/vendor/
+/logs/*
+!/logs/README.md
+includes/.env
+tests/Functional/HomepageTest.php
+tests/Functional/HelloRoutesTest.php
+tests/Functional/BaseTestCase.php
