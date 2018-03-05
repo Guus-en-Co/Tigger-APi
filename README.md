@@ -12,5 +12,5 @@ Routes:
   - post '/beer'
   - post '/balance'
 - '/remove'
-  - post '/beer/'
-  - post '/balance/'
+  - post '/beer'
+  - post '/balance'
