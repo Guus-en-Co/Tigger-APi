@@ -1,7 +1,9 @@
 # Tigger Api
 
 Call <root>/public/my-route
+
 Example: <root>/public/get/all
+
 Routes:
 
 - '/get'
